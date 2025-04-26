@@ -55,8 +55,6 @@ Proyek ini adalah katalog produk berbasis web untuk UMKM **Kenzi Islamic Attire*
    ```
    Buka browser dan akses aplikasi di `http://localhost:3000`.
 
-### 6. **Akses Halaman Admin (Optional)**
-   Jika sudah menambahkan fitur admin, kamu bisa menambahkan halaman admin untuk menambah/mengedit produk. Sementara fitur admin mungkin belum tersedia, namun sudah bisa direncanakan di masa depan.
 
 ## Struktur Proyek
 
@@ -123,34 +121,7 @@ Proyek ini adalah katalog produk berbasis web untuk UMKM **Kenzi Islamic Attire*
 
 Jika kamu ingin berkontribusi pada proyek ini, silakan fork repositori dan ajukan **pull request**. Semua kontribusi sangat dihargai!
 
-## Lisensi
 
-Proyek ini dilisensikan di bawah **MIT License**.
 
-```
 
----
 
-### Penjelasan tentang README:
-
-1. **Setup Proyek**:
-   - Panduan lengkap dari clone repositori, install dependensi, setup database hingga menjalankan server.
-   
-2. **Konfigurasi Database**:
-   - Instruksi untuk mengimpor file SQL ke database MySQL/MariaDB melalui phpMyAdmin di XAMPP.
-   
-3. **Environment Variables**:
-   - Panduan untuk membuat file `.env.local` agar koneksi database dapat berjalan dengan baik.
-
-4. **API Routes**:
-   - Deskripsi lengkap tentang API yang digunakan untuk mengelola produk (CRUD: Create, Read, Update, Delete).
-
-5. **Struktur Folder**:
-   - Penjelasan mengenai struktur folder proyek untuk memudahkan pengembang lain mengerti bagaimana proyek disusun.
-
-6. **Kontribusi**:
-   - Menyediakan instruksi untuk berkontribusi pada proyek ini.
-
-Semua panduan ini sekarang ada dalam satu file README.md untuk memudahkan pemahaman dan pengaturan proyek.
-
-Semoga ini membantu! Jika ada yang perlu ditambahkan atau dijelaskan lebih lanjut, tinggal beri tahu! 🙌🚀
