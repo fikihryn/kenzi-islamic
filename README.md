@@ -1,10 +1,3 @@
-Tentu! Berikut adalah **README.md** yang lebih lengkap dan mencakup semua panduan, termasuk instruksi setup, penggunaan API, dan konfigurasi environment langsung dalam satu file:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # Katalog Produk - Kenzi Islamic Attire (Next.js Version)
 
 Proyek ini adalah katalog produk berbasis web untuk UMKM **Kenzi Islamic Attire** menggunakan **Next.js** dan **MariaDB/MySQL**.
